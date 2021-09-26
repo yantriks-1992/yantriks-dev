@@ -1,0 +1,6 @@
+today i have learnt how to crete git repo
+once after creating account
+hit below command
+git add .
+git commit -m "mesage"
+git push origin master (branch_name)
