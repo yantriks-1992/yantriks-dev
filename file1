@@ -4,3 +4,4 @@ hit below command
 git add .
 git commit -m "mesage"
 git push origin master (branch_name)
+everytime we dont need to trigger a job
